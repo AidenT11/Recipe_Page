@@ -20,6 +20,8 @@ The designs were created to the following widths:
 
 - Brown 800: hsl(14, 45%, 36%)
 
+- Peach 200: hsl(29, 36%, 87%)
+
 - Rose 800: hsl(332, 51%, 32%)
 - Rose 50: hsl(330, 100%, 98%)
 
