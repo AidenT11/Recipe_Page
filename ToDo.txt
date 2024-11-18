@@ -1,0 +1,30 @@
+The file can be broken down into:
+
+-Image
+
+-Header:
+
+	-Omelette Recipe Title
+
+	-Recipe Description Paragraph
+
+-Main:
+
+	-Preparation Div
+		-Container Box With Background
+			-Preparation Title
+			-3 Unordered List Items
+
+	-Ingredients Div
+		-Ingredients Title
+		-5 Unordered List Items
+
+	-Instructions Div
+		-Instructions Title
+		-6 Ordered List Items
+
+	-Nutrition
+		-Description Paragraph
+		-Grid
+		-2 Columns
+		-4 Rows
